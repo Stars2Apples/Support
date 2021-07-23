@@ -63,8 +63,7 @@ And I will follow up with you next chance I get!
 There is also a roadmap that you can follow to see what bugs/features are being prioritized and worked on.
 
 To access it:
-- Click on the "projects" tab near the top of the screen
-- Once on the "projects" tab, select the "Roadmap" project
+- [Click this link](https://github.com/Stars2Apples/Support/projects/4), or click on the "projects" tab near the top of the screen, then select the "Roadmap" project
 - There are 4 columns here that represent where a bug/feature is currently at in the development lifecycle:
   1. [Triage](https://github.com/Stars2Apples/Support/projects/4#column-12901188) - This is where new issues/enhancements go until I've triaged them (looked over them, confirmed it's valid, and committed to work on it)
   2. [To Do](https://github.com/Stars2Apples/Support/projects/4#column-12901160) - This is where issues/enhancements I've confirmed go until I can work on them
