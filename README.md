@@ -3,7 +3,7 @@
 Stars 2 Apples helps online ESL teachers stay organized and helps engage students with exciting rewards and props.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/18663382/126724762-876953ba-f26e-4167-860e-c3c1c967eea6.png" width=75%><br/>
+  <img src="https://user-images.githubusercontent.com/18663382/126724762-876953ba-f26e-4167-860e-c3c1c967eea6.png" width=40%><br/>
   <em>Mario and Pokémon are properties of Nintendo Co., Ltd. and are not associated with Delta or AltStore LLC.</em>
 </p>
 
