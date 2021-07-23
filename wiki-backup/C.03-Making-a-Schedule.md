@@ -1,7 +1,5 @@
 # 🗓 How to make Schedules 🗓
 
-## Accessing your Schedule
-
 Creating a schedule is easy within Stars 2 Apples. First, navigate to the Schedule screen, select the day you want to schedule for, then press the "+" button in the top-right corner of the screen.
 
 Each Schedule item consists of 4 pieces of information:
