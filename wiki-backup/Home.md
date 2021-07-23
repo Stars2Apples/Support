@@ -1,12 +1,11 @@
 # Welcome to the Stars2Apples wiki!
 
-👷‍♂️ Just testing stuff right now. Expect more here in the future! 👷‍♂️
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18663382/126724762-876953ba-f26e-4167-860e-c3c1c967eea6.png" width=33%><br/>
+  <em>Stars 2 Apples helps online ESL teachers stay organized and helps engage students with exciting rewards and props.</em>
+</p>
 
-## About
-
-Stars 2 Apples helps online ESL teachers stay organized and helps engage students with exciting rewards and props.
-
-The app is organized into the following 5 sections, displayed as Tabs along the bottom of the screen:
+The app (and wiki) are organized into the following 5 sections, displayed as Tabs along the bottom of the screen:
 * **Rewards**
    * Motivate your students by rewarding them with fun rewards right from your phone or tablet. You can easily create your own rewards within the app and share them with others.
 * **Props**
