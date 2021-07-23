@@ -1,4 +1,4 @@
-# Table Of Contents!!!
+# Table Of Contents
 - [Home](Home)
 - Tutorial:
    * [Rewards](A.01-Rewards)
