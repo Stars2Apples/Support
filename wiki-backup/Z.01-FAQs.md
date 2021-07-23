@@ -10,6 +10,10 @@ It only looks like you need to, and it's a weird little thing about the App Stor
 
 ***
 
+### Q: When attempting to download a Custom Reward/Prop from Google Drive, I am seeing a "Too Many Redirects" error
+
+A: Update to the latest version (1.5 at time of writing) of Stars 2 Apples -- this should be fixed now.
+
 ### Q: Data carrying over from phone to phone
 
 ***

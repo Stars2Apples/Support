@@ -1,6 +1,6 @@
 # 🧒 How to make Students 🧒
 
-Creating a student is easy within Stars 2 Apples. First, navigate to the Students screen, then press the "+" button in the top-right corner of the screen.
+Creating a student is easy within Stars 2 Apples. First, navigate to the Students screen, then press the "➕" button in the top-right corner of the screen.
 
 Each Student item consists of 4 pieces of information:
 

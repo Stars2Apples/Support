@@ -6,7 +6,7 @@ Creating Props is much more straightforward than creating a Reward, as a prop as
 
 ## Getting Started
 
-To create your own Prop, get started by pressing the "+" button in the top-right of the Props Screen.
+To create your own Prop, get started by pressing the "➕" button in the top-right of the Props Screen.
 
 ![Create Props](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/props-create-1.gif)
 
