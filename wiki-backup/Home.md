@@ -31,4 +31,5 @@ Please view the Table of Contents on the side (or below if on mobile) to view di
 - [Wiki/Schedules](C.01-Schedules)
 - [Wiki/Students](D.01-Students)
 - [Wiki/Settings](E.01-Settings)
+- [Wiki/Sharing/Downloading Custom Rewards/Props](K.01-Sharing-and-Downloading-Custom-Rewards-and-Props)
 

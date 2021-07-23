@@ -15,4 +15,5 @@
      * [Using Students](D.02-Using-Students)
      * [Making Students](D.03-Making-Students)
    * [Settings](E.01-Settings)
+- [Sharing/Downloading Custom Rewards/Props](K.01-Sharing-and-Downloading-Custom-Rewards-and-Props)
 - [FAQs](Z.01-FAQs)
