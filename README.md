@@ -1,5 +1,5 @@
 # S2A-Public-Assets
-A repo wherein I upload assets used throughout https://github.com/Stars2Apples/Stars2Apples/wiki
+A repo wherein I upload assets used throughout https://github.com/Stars2Apples/Support/wiki
 
 Assets made using Paul Hudson (and other's) incredible work on [ControlRoom](https://github.com/twostraws/ControlRoom) to create the GIFs from the simulator.
 
