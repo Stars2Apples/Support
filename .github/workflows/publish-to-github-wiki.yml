@@ -20,24 +20,23 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world! Starting Publish to Github Wiki Job now!
+      - name: Init Message
+        run: echo Hello, world!
         
-      # Runs the wiki publish step
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      - name: Pre-Publish Message (one-line script example)
+        run: echo Starting Publish to Github Wiki Job now!
+
       - name: Publish to GitHub Wiki Step
-        uses: SwiftDocOrg/github-wiki-publish-action@1.0.0
+        uses: SwiftDocOrg/github-wiki-publish-action@v1
         with:
           path: "wiki"
         env:
           GH_PERSONAL_ACCESS_TOKEN: ${{ secrets.GH_PERSONAL_ACCESS_TOKEN }}
-          
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
+
+      - name: Post-Publish Wrap Up Message (multi-line script example)
         run: |
           echo Publish to Github Wiki Job has finished,
           echo please verify that it worked.
-
-#       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-#       - uses: actions/checkout@v2
-
