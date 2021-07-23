@@ -2,7 +2,7 @@
 
 Stars 2 Apples provides some basic user settings to enhance and customize your experience.
 
-![Small Thumbnail Setting](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/settings-screen-0.png)
+![Small Thumbnail Setting](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/settings-screen-5.png)
 
 Here is a light breakdown of each included setting:
 1. Change App Icon
@@ -31,5 +31,5 @@ Here is a light breakdown of each included setting:
 
 At the bottom of the screen also is the Version number of the app (displaying here as `1.5`), copyright info, and a link to our privacy policy (TL:DR; we don't collect any personally identifiable information).
 
-![Small Thumbnail Setting](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/settings-screen-0.png)
+![Small Thumbnail Setting](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/settings-screen-5.png)
 
