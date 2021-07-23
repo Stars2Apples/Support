@@ -8,7 +8,7 @@ Creating Props is much more straightforward than creating a Reward, as a prop as
 
 To create your own Prop, get started by pressing the "+" button in the top-right of the Props Screen.
 
-![Create Props](https://raw.githubusercontent.com/Stars2Apples/S2A-Public-Assets/main/props-create-1.gif)
+![Create Props](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/props-create-1.gif)
 
 From here, you can begin filling out information by section:
 
@@ -23,7 +23,7 @@ From here, you can begin filling out information by section:
    1. Tap the plus sign. Take a picture of your Prop. (The thumbnail will automatically be created with this image.) 
    2. Tap "save" and your Prop will be added to the app.
 
-![Saving Props](https://raw.githubusercontent.com/Stars2Apples/S2A-Public-Assets/main/props-create-2.gif)
+![Saving Props](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/props-create-2.gif)
 
 ## Important Notes
 - Images can be in the "jpg", "jpeg", "png", or "gif" format.

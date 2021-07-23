@@ -18,7 +18,7 @@ At a time in the lesson of your choosing, you can allow the student to choose on
 
 FAS vary in how many images are laid out in the grid and how many stars each one has, but there cannot be more than 25 images, and there are usually 5 stars to find.
 
-![farm-fas](https://raw.githubusercontent.com/Stars2Apples/S2A-Public-Assets/main/reward-fas-farm.gif)
+![farm-fas](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/reward-fas-farm.gif)
 
 ***
 
@@ -26,7 +26,7 @@ FAS vary in how many images are laid out in the grid and how many stars each one
 
 "Picture Prize" Rewards (or "PP" Rewards) are another grid-based reward, with the only major difference from FAS being that PP Rewards do not have any stars to find. The fun comes from simply turning over the covers to see what's underneath! You can think of this being similar to "collecting" items as a lesson progresses, which motivates the student to return to Stars 2 Apples to earn/collect every image in the set.
 
-![fruit-pp](https://raw.githubusercontent.com/Stars2Apples/S2A-Public-Assets/main/reward-pp-fruit.gif)
+![fruit-pp](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/reward-pp-fruit.gif)
 
 ***
 
@@ -36,7 +36,7 @@ FAS vary in how many images are laid out in the grid and how many stars each one
 
 As the game progresses, take turns selecting an image/cover with your student, and tally up your scores (you can use the Whiteboard feature to keep track). Whoever has more points after turning over all of the covers/images wins!
 
-![fruit-tvs](https://raw.githubusercontent.com/Stars2Apples/S2A-Public-Assets/main/reward-tvs-fruit.gif)
+![fruit-tvs](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/reward-tvs-fruit.gif)
 
 ***
 
@@ -53,7 +53,7 @@ Some tips when using this reward:
 * Once placed, you can pinch the image with two fingers to scale or rotate the image to the size and orientation that you wish. This makes for some fun interactions with students!
 * To remove an image already in the scene, drag it back into the drawer.
 
-![farm-mas](https://raw.githubusercontent.com/Stars2Apples/S2A-Public-Assets/main/reward-mas-farm.gif)
+![farm-mas](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/reward-mas-farm.gif)
 
 ***
 
@@ -65,7 +65,7 @@ For each turn, choose a cover (the image will be revealed), and then choose a se
 
 You can take turns with the student trying to match images, or have the student match images on their own.
 
-![pets-match](https://raw.githubusercontent.com/Stars2Apples/S2A-Public-Assets/main/reward-mg-pets.gif)
+![pets-match](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/reward-mg-pets.gif)
 
 ***
 
@@ -75,7 +75,7 @@ You can take turns with the student trying to match images, or have the student 
 
 The most common way to use this reward is to have the student guess the picture as you play, but let your imagination run wild and use this reward type however you wish.
 
-![flowers-pr](https://raw.githubusercontent.com/Stars2Apples/S2A-Public-Assets/main/reward-pr-flowers.gif)
+![flowers-pr](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/reward-pr-flowers.gif)
 
 ***
 
@@ -87,7 +87,7 @@ For example, "Emojis TTT" lets you select an emoji in place of the "X" and the "
 
 Once 3 of the same icon/letter are placed in a row, a victor is declared!
 
-![emoji-ttt](https://raw.githubusercontent.com/Stars2Apples/S2A-Public-Assets/main/reward-emoji-ttt.gif)
+![emoji-ttt](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/reward-emoji-ttt.gif)
 
 ***
 

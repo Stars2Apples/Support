@@ -10,7 +10,7 @@ Creating Rewards aims to remain simple while also offering as much customization
 
 To create your own reward, get started by pressing the "+" button in the top-right of the Rewards Screen.
 
-![Create Reward 1](https://raw.githubusercontent.com/Stars2Apples/S2A-Public-Assets/main/rewards-create-1.gif)
+![Create Reward 1](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/rewards-create-1.gif)
 
 From here, you can begin filling out information by section:
 
