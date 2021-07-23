@@ -12,16 +12,23 @@ If you've never heard of GitHub, it is a website that helps developers like myse
 I'm glad you are here! Please see the table of contents for the most common reasons you are here and how you can do them:
 
 Table of Contents:
-- Wiki/FAQs
+- Wiki
+- FAQs
 - Reporting a Bug
 - Requesting a feature/enhancement
 - Checking the roadmap
 
-## [Wiki/FAQs](https://github.com/Stars2Apples/Support/wiki)
+## [Wiki](https://github.com/Stars2Apples/Support/wiki)
 
 Check out the Wiki for tutorials, FAQs and more.
 
-The Wiki breaks down everything you need to know about Rewards, Props, Schedules, Students and more. Please search the Wiki for any questions you have before reporting a bug / opening an issue.
+The Wiki breaks down everything you need to know about Rewards, Props, Schedules, Students and more. Please search the Wiki/FAQs for any questions you have before reporting a bug / opening an issue.
+
+## [FAQs](https://github.com/Stars2Apples/Support/wiki/Z.01-FAQs)
+
+Although FAQs are technically a part of the Wiki, they're important enough that they merit their own link.
+
+The FAQs will hopefully help you address your particular questions! Please search the Wiki/FAQs for any questions you have before reporting a bug / opening an issue.
 
 ## [Reporting a Bug](https://github.com/Stars2Apples/Support/issues)
 
