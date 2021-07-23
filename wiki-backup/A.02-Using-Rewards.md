@@ -29,7 +29,7 @@ If you have a schedule prepared, and you have selected a Reward to be a part of 
 
 ![Rewards from Class Time](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/rewards-screen-3.gif)
 
-For more information on Schedules, see the [Schedules Page.](tbd)
+For more information on Schedules, see the [Schedules Page.](C.01-Schedules)
 
 ### From an existing Student's page
 
@@ -39,6 +39,8 @@ When you have students entered in the app, and you use the Scheduling feature, t
 
 For more information on Students, see the [Students Page.](tbd)
 
+***
+
 ## When inside the Rewards screen
 
 Once you display the reward, it's time to engage the student. This is where the fun is! Each reward is different, but from searching for stars in an FAS, or creating a scene with MAS, or playing a game like Tic Tac Toe, this is where the real magic of Stars 2 Apples happens. 
@@ -47,11 +49,15 @@ Whenever you're finished using the Reward, simply press the "Done" button in the
 
 Other than using with the Reward, Stars 2 Apples gives some extra niceties within this view:
 
+***
+
 ### Clear/Reset
 
 All rewards have a "Clear/Reset" button next to the "Done" button. Press this button to return to the state the Reward was in when you first entered the Reward.
 
 ![Clear or Reset Reward](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/rewards-screen-5.gif)
+
+***
 
 ### Whiteboard
 
@@ -65,6 +71,8 @@ And as long as you stay inside of the reward, the whiteboard doesn't clear! One 
 
 ![Entering the Whiteboard view](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/rewards-screen-7.gif)
 
+***
+
 ### Embedded Props
 
 If you want to open a Prop mid-lesson but don't want to lose progress in the Reward, then you can press the Props icon (near the top-left corner of the screen) to access all of your props without losing context. 
@@ -75,4 +83,12 @@ As a bonus, if you use the scheduling feature, then it allows you to bundle Prop
 
 ![Props from Class Screen](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/rewards-screen-9.gif)
 
-For more information on Schedules, see the [Schedules Page.](tbd)
+For more information on Schedules, see the [Schedules Page.](C.01-Schedules)
+
+***
+
+### Favorites
+
+You can favorite certain Rewards to bring them to the top of the Reward list in a special "Favorites" Category. Favoriting a Reward is as easy as selecting the Star on the top-right corner of the Reward thumbnail.
+
+![Props from Class Screen](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/rewards-screen-10.gif)

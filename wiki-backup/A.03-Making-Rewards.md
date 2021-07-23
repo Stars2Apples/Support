@@ -161,5 +161,16 @@ You may have some physical rewards (rather than digital) that you would like to 
    - For the "Rewards" section you have the topic of Applying a Star. This option pulls up some included star assets for you to use in your reward for your convenience.
 - If you are ever lost or confused during the creation process, press on the "i" icon next to each Section header for a breakdown of what that section is for and how to use it.
 - Every field required to create a Reward is marked with a red _**(required)**_, so it's easy to spot your next piece of required information.
+- You can create your own Categories and Tags from within the Categories and Tags screens (when clicking on the Categories and Tags sections)
 
+***
 
+## Editing/Removing Rewards
+
+To edit or remote an existing reward, press and hold on the Reward to bring up a context menu.
+
+If the Reward came with the app, then you will be given the option to edit some of the "Identity" information to better suit your workflow.
+
+If the Reward is a Custom Reward, then you have full control over editing any of the information about the Reward, and also have the option to delete it.
+
+![Editing/Deleting Rewards](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/rewards-create-2.gif)

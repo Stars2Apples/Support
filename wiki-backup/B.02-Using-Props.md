@@ -30,4 +30,4 @@ As a bonus, if you use the scheduling feature, then it allows you to bundle Prop
 
 ![Props from Class Screen](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/rewards-screen-9.gif)
 
-For more information on Schedules, see the [Schedules Page.](tbd)
+For more information on Schedules, see the [Schedules Page.](C.01-Schedules)

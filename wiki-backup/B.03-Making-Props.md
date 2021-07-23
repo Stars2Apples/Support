@@ -32,3 +32,14 @@ From here, you can begin filling out information by section:
 - If you are ever lost or confused during the creation process, press on the "i" icon next to each Section header for a breakdown of what that section is for and how to use it.
 - Every field required to create a Prop is marked with a red _**(required)**_, so it's easy to spot your next piece of required information.
 
+***
+
+## Editing/Removing Rewards
+
+To edit or remote an existing Prop, press and hold on the Prop to bring up a context menu.
+
+If the Prop came with the app, then you will be given the option to edit some of the "Identity" information to better suit your workflow.
+
+If the Prop is a Custom Prop, then you have full control over editing any of the information about the Prop, and also have the option to delete it.
+
+![Editing/Deleting Props](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/props-create-3.gif)
