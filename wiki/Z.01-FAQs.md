@@ -4,7 +4,7 @@
 
 ## Getting Stars 2 Apples FAQs
 
-**
+***
 
 ### Q: What devices support Stars 2 Apples, and where can I download/purchase the app?
 
@@ -95,13 +95,13 @@ A: Currently Stars 2 Apples does not support syncing, but we are investigating w
 
 ***
 
-### Q: I just (did a restore on my iPhone/iPad)/(transferred my account from my old iPhone/iPad to a new iPhone/iPad) and my Rewards/Propss' images are missing. How do I fix this?
+### Q: I just (did a restore on my iPhone/iPad)/(transferred my account from my old iPhone/iPad to a new iPhone/iPad) and my Rewards/Props' images are missing. How do I fix this?
 
-A: If the Rewards/Propss in question are Custom Rewards/Props, then we're sorry to say that there was an issue during the restore/transfer, and there is sadly nothing that can be done to bring those images back. You will need to delete those Rewards/Props and create them again.
+A: If the Rewards/Props in question are Custom Rewards/Props, then we're sorry to say that there was an issue during the restore/transfer, and there is sadly nothing that can be done to bring those images back. You will need to delete those Rewards/Props and create them again.
 
 There has been some recent work in making the restore/transfer more reliable, so please make sure you are on the latest version of Stars 2 Apples _before_ attempting to restore/transfer.
 
-If the Rewards/Propss in question are _not_ Custom Rewards/Props and instead are the built-in Rewards/Props, then please see the [Reset Default Rewards/Props](E.01-Settings#5-reset-default-rewardsprops) section of the Wiki for more information.
+If the Rewards/Props in question are _not_ Custom Rewards/Props and instead are the built-in Rewards/Props, then please see the [Reset Default Rewards/Props](E.01-Settings#5-reset-default-rewardsprops) section of the Wiki for more information.
 
 ***
 
