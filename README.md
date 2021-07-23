@@ -70,7 +70,3 @@ To access it:
   2. [To Do](https://github.com/Stars2Apples/Support/projects/4#column-12901160) - This is where issues/enhancements I've confirmed go until I can work on them
   3. [In Progress](https://github.com/Stars2Apples/Support/projects/4#column-12901161) - This is where issues/enhancements I'm currently working on go
   4. [Done](https://github.com/Stars2Apples/Support/projects/4#column-12901162) - This is where issues/enhancements go when I've finished them (code-wise, not release-wise)
-
-## Coming soon:
-
-* a Wiki with FAQ's and How-to's
