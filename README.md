@@ -1,3 +1,7 @@
+
+![S2A_Logo](https://user-images.githubusercontent.com/18663382/126724682-9d84e5fb-b843-4992-afc8-2e61953bbcb3.png)
+
+
 # Stars2Apples
 
 Hi teachers! This is the Support Page, Wiki, Bug Tracker, Roadmap, and more for Stars 2 Apples.
