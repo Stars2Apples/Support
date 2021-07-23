@@ -17,7 +17,7 @@ Table of Contents:
 - Requesting a feature/enhancement
 - Checking the roadmap
 
-## [Wiki](https://github.com/Stars2Apples/Support/wiki)
+## [Wiki/FAQs](https://github.com/Stars2Apples/Support/wiki)
 
 Check out the Wiki for tutorials, FAQs and more.
 
