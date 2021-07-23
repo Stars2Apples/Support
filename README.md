@@ -1,6 +1,4 @@
-
-![S2A_Logo](https://user-images.githubusercontent.com/18663382/126724682-9d84e5fb-b843-4992-afc8-2e61953bbcb3.png)
-
+![S2A_Logo_512](https://user-images.githubusercontent.com/18663382/126724740-7b18201d-43ef-4ae0-b49f-298a8feba9ce.png)
 
 # Stars2Apples
 
