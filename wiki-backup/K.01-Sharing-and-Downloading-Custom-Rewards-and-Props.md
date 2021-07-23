@@ -28,6 +28,6 @@ To import, there's a couple different ways to go about it:
    - In the text field, enter the url of the publicly accessible File on Google Drive
    - Press "Save" and Stars 2 Apples will attempt to import the file 
 
-## Disclaimer on downloading Custom Rewards/Props
+## ⚠️ Disclaimer on downloading Custom Rewards/Props ⚠️
 
 Unfortunately, due to the copyright-sensitive imagery that user-created Custom Rewards and Props often contain, we cannot link, guide, or otherwise direct you to sources of any publicly hosted Custom Rewards or Props. We encourage everyone to seek out and and join with like-minded or like-employed teachers to create and host your own directory of Custom Rewards and Props for each other to use within their respective communities.
