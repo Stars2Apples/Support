@@ -21,6 +21,7 @@ I'm glad you are here! Please see the table of contents for the most common reas
 Table of Contents:
 - Wiki
 - FAQs
+- Discussions
 - Reporting a Bug
 - Requesting a feature/enhancement
 - Checking the roadmap
@@ -36,6 +37,10 @@ The Wiki breaks down everything you need to know about Rewards, Props, Schedules
 Although FAQs are technically a part of the Wiki, they're important enough that they merit their own link.
 
 The FAQs will hopefully help you address your particular questions! Please search the Wiki/FAQs for any questions you have before reporting a bug / opening an issue.
+
+## [Discussions](https://github.com/Stars2Apples/Support/discussions)
+
+If you've got a question but don't want to report a bug / open a feature request, feel free to stop by the discussions page and say hello!
 
 ## [Reporting a Bug](https://github.com/Stars2Apples/Support/issues)
 
