@@ -17,6 +17,11 @@ The app (and wiki) are organized into the following 5 sections, displayed as Tab
 * **Settings**
    * Customize your experience by changing the App Icon, increasing the thumbnail size, whether to display the Rewards/Props screens in collection form or list form, and more.
 
+![Rewards Screen View](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/rewards-screen-1.gif)
+![Props Screen View](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/props-screen-1.gif)
+![Schedule Screen View](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/schedule-screen-1.gif)
+![Classrooms Screen View](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/students-screen-2.gif)
+
 ***
 
 Please view the Table of Contents on the side (or below if on mobile) to view different parts of the Wiki/Tutorial.
