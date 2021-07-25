@@ -5,10 +5,12 @@
   <em>Stars 2 Apples helps online ESL teachers stay organized and helps engage students with exciting rewards and props.</em>
 </p>
 
-![Rewards Screen View](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/rewards-screen-1.gif)
-![Props Screen View](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/props-screen-1.gif)
-![Schedule Screen View](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/schedule-screen-1.gif)
-![Classrooms Screen View](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/students-screen-2.gif)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/rewards-screen-1.gif" width=24%>
+  <img src="https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/props-screen-1.gif" width=24%>
+  <img src="https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/schedule-screen-1.gif" width=24%>
+  <img src="https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/students-screen-2.gif" width=24%>
+</p>
 
 Hi teachers! This is the Support Page, Wiki, Bug Tracker, Roadmap, and more for Stars 2 Apples.
 
