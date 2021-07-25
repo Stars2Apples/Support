@@ -5,6 +5,11 @@
   <em>Stars 2 Apples helps online ESL teachers stay organized and helps engage students with exciting rewards and props.</em>
 </p>
 
+![Rewards Screen View](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/rewards-screen-1.gif)
+![Props Screen View](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/props-screen-1.gif)
+![Schedule Screen View](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/schedule-screen-1.gif)
+![Classrooms Screen View](https://raw.githubusercontent.com/Stars2Apples/Support/main/assets/students-screen-2.gif)
+
 Hi teachers! This is the Support Page, Wiki, Bug Tracker, Roadmap, and more for Stars 2 Apples.
 
 If you've never heard of GitHub, it is a website that helps developers like myself organize our code, bugs, and what we're working on. I decided to put Stars 2 Apples' bug trackers and feature requests here instead of any other website because I am here more than I am just about any other website. So if bug reports and enhancement requests are here, then I am much more likely to see them and work on them!
