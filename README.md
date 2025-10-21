@@ -1,3 +1,7 @@
+-- DISCLAIMER
+
+Stars2Apples is now in maintenance mode and is no longer actively being developed. Critical bug fixes will still be addressed, but new features are discontinued. Thank you for your contribution and support over the years.
+
 # Stars2Apples
 
 <p align="center">
@@ -65,7 +69,7 @@ can be followed in one place, and discussion surrounding the issue can be as cen
 
 ## [Requesting a feature/enhancement](https://github.com/Stars2Apples/Support/issues)
 
-Thank you for sharing your ideas with me on how the app can be better for you!
+Thank you for sharing your ideas with me on how the app can be better for you! The app is now in maintenance mode, meaning I am no longer I'm actively working on it, but if the right feature request comes along, I may choose to implement it. 
 
 To submit an enhancement/feature request, it's almost the same as submitting an issue:
 - Click on the "issues" tab near the top of the screen
@@ -75,16 +79,4 @@ To submit an enhancement/feature request, it's almost the same as submitting an 
 - Fill out your enhancement/feature request according to the provided template
 - Select the green "Submit new issue" button at the bottom of the text box
 
-And I will follow up with you next chance I get!
-
-## [Checking the roadmap](https://github.com/Stars2Apples/Support/projects/4)
-
-There is also a roadmap that you can follow to see what bugs/features are being prioritized and worked on.
-
-To access it:
-- [Click this link](https://github.com/Stars2Apples/Support/projects/4), or click on the "projects" tab near the top of the screen, then select the "Roadmap" project
-- There are 4 columns here that represent where a bug/feature is currently at in the development lifecycle:
-  1. [Triage](https://github.com/Stars2Apples/Support/projects/4#column-12901188) - This is where new issues/enhancements go until I've triaged them (looked over them, confirmed it's valid, and committed to work on it)
-  2. [To Do](https://github.com/Stars2Apples/Support/projects/4#column-12901160) - This is where issues/enhancements I've confirmed go until I can work on them
-  3. [In Progress](https://github.com/Stars2Apples/Support/projects/4#column-12901161) - This is where issues/enhancements I'm currently working on go
-  4. [Done](https://github.com/Stars2Apples/Support/projects/4#column-12901162) - This is where issues/enhancements go when I've finished them (code-wise, not release-wise)
+And I will follow up with you next chance I get.
