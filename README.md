@@ -1,4 +1,4 @@
--- DISCLAIMER
+# --- DISCLAIMER
 
 Stars2Apples is now in maintenance mode and is no longer actively being developed. Critical bug fixes will still be addressed, but new features are discontinued. Thank you for your contribution and support over the years.
 
